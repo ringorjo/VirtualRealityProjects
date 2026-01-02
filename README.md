@@ -10,7 +10,7 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 ### 🎓 Enterprise Training & Simulation
 
 #### **Nurse & Doctor Clinical Training (AI-Driven)**
-<p align="center">
+<p align="left">
   <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/AI.gif" width="500px">
 </p>
 
