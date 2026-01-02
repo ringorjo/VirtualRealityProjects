@@ -10,6 +10,7 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 ### 🎓 Enterprise Training & Simulation
 
 #### **Nurse & Doctor Clinical Training (AI-Driven)**
+https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/AI.gif
 * **Role:** Lead Developer (Architecture & AI Integration)
 * **Stack:** Unity, OpenAI Realtime, ElevenLabs, Low-latency LLM Systems.
 * **Description:** Developed a cutting-edge interaction system using real-time AI to create role-specific virtual patients. This project realistically simulates clinical conditions, enhancing immersion and training effectiveness for healthcare professionals.
