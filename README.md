@@ -20,6 +20,9 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 * [**Watch Demo Video**](https://youtu.be/F1DYeII_khY)
 
 #### **CAE Aviation Technician Training**
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/CAE.gif" width="500px">
+</p>
 * **Role:** Senior XR Developer
 * **Stack:** Unity, Photon Fusion 2, Hand Tracking, iPad Cross-platform.
 * **Description:** A collaborative training suite for aircraft mechanics. Implemented a robust multiplayer system and cross-platform connectivity between VR and mobile devices.
@@ -34,7 +37,9 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 ---
 
 ### 🏛️ Published on Meta Store
-
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/Molecules.gif" width="500px">
+</p>
 #### **Molecule Builder (Educational Chemistry)**
 * **Role:** Lead Developer
 * **Status:** Published on Meta Store
@@ -42,6 +47,9 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 * [**Watch Demo Video**](https://youtu.be/N8M7DsjTeM8)
 
 #### **Biology Dissection Lab**
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/Dissection.gif" width="500px">
+</p>
 * **Role:** Senior Developer (Refactoring & Optimization)
 * **Status:** Published on Meta Store
 * **Description:** Contributed by refactoring key gameplay mechanics and resolving critical bugs, significantly improving stability and performance for the final release.
@@ -50,7 +58,9 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 ---
 
 ### 🌊 Research & Social Impact
-
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/Coral.gif" width="500px">
+</p>
 #### **University of Miami: Rescue a Reef**
 * **Role:** Lead Developer
 * **Stack:** **Unreal Engine**
@@ -58,11 +68,17 @@ Experienced Lead Developer specializing in high-performance XR solutions, multip
 * [**Watch Demo Video**](https://youtu.be/ubsAcl7sWe0)
 
 #### **Boys & Girls Clubs: Construction VR**
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/boys.gif" width="500px">
+</p>
 * **Role:** Lead Developer
 * **Description:** A vocational VR experience designed to educate young people in the US about careers in the construction industry.
 * [**Watch Demo Video**](https://youtu.be/6kP7dtGdkh4)
 
 #### **VR Optics Table: Snell's Law**
+<p align="left">
+  <img src="https://github.com/ringorjo/VirtualRealityProjects/blob/main/gif/laser.gif" width="500px">
+</p>
 * **Description:** A physics-focused simulation of light refraction and reflection, applying Snell's Law within a virtual laboratory setting.
 * [**Watch Demo Video**](https://youtu.be/rNuKt9C5At8)
 
